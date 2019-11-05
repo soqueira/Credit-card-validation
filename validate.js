@@ -38,4 +38,3 @@ function GetCardType(number) {
         }
     })
 }
-validCreditCard(4538504036003956) 
