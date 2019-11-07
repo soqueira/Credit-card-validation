@@ -19,4 +19,4 @@ validCreditCard(6011592901763870) #returns Discover
 | 5523724036429548 | 4716756939113704 | 340897614929832  | 6011048007089140 |
 | 5291010296989797 | 4716282349611476 | 347518541294966  | 6011687338305681 |
 
-[demo](https://codepen.io/vitor-siqueira/pen/XWWEZoO)
+[demo](https://codepen.io/vitor-siqueira/full/XWWEZoO)
